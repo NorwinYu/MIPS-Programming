@@ -1,6 +1,6 @@
-# UNNC-SYS-CW-2016
+# MIPS Programming
 
-This code is my assignment when I was studying **SYSTEM AND ARCHITECTURE** at **University of Nottingham, Ningbo, CHINA** in 2016 as a second year undergraduate student. Because I was looking for a job to write a resume and backed up my school day code, the code was uploaded and made public on January 27, 2020.
+This code is my assignment when I was studying **SYS.TE.M A.ND ARC.H.ITECT.URE** at **Univ.ersi.ty of. Not.ting.ham, Ni.ngbo, CHIN.A** in 2016 as a second year undergraduate student. Because I was looking for a job to write a resume and backed up my school day code, the code was uploaded and made public on January 27, 2020.
 
 
 
